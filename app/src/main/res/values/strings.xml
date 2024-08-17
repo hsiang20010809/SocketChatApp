@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocketChatApp</string>
+    <string name="launch_client1">啟動客戶端 1</string>
+    <string name="launch_client2">啟動客戶端 2</string>
+    <string name="connect_to_server">連接到伺服器</string>
+    <string name="disconnect_from_server">斷開與伺服器的連接</string>
+    <string name="send_message">發送訊息</string>
+    <string name="your_name">您的名字</string>
+    <string name="server_ip">伺服器 IP</string>
+    <string name="server_port">伺服器埠</string>
+    <string name="enter_message">輸入訊息</string>
+
+</resources>
